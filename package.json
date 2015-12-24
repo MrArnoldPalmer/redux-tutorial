@@ -41,6 +41,7 @@
     "nodemon": "^1.8.1",
     "parallelshell": "^2.0.0",
     "redux": "^3.0.5",
+    "should": "^8.0.2",
     "watchify": "^3.6.1"
   },
   "babel": {
